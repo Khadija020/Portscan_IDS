@@ -221,15 +221,7 @@ ALERT_THRESHOLD       = 0.80
 
 ---
 
-## Team
 
-| Name | Role |
-|------|------|
-| Adil Lekhbioui | ML pipeline, data preprocessing, model training & evaluation |
-| Khadija Nafia | ML pipeline co-development |
-| El Yazid Hammoubel | Deception subsystem (Aegis Entropy), dashboard, integration, config |
-| Anas El Kartouti | Documentation and report writing |
-| Anas Moulay | AI integration in virtual machines |
 
 ---
 
